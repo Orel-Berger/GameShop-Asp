@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Game>
+
+<body>
+    <div class="overlay"></div>
+<div class="container p-3" style="font-size:150%">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h1 class="text-primary">Game list @TempData["Data"]</h1>
+        </div>
+        <div class="col-6 text-end">
+             <form action="/Customer/Index" method="post">
+            <p></p>
+                <select id="category" name="categoryId" onchange="this.form.submit()" asp-items="ViewBag.CategoryList" class="form-select">
+                    <option disabled value="0">---All Categories--</option>
+                    <option selected value="0"> All Categories </option>
+                </select>
+                </form>
+            <a id="aHref" asp-controller="Customer" asp-action="showPopular" asp-route-id="1" class="btn btn-primary form-control"
+                   data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Tooltip on bottom">
+                <i class="bi bi-controller"></i>&nbsp; The Most Popular Games
+                </a>
+        </div>
+    </div>
+    <br /> <br />
+        <table class="table table-bordered table-striped table-hover" style="width:100%">
+        <thead>
+            <tr>
+                <th>
+                    Game Title
+                </th>
+                <th>
+                    Category Name
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Cover
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var game in Model)
+            {
+                <tr>
+                    <td width="15%">
+                        @game.Title
+                    </td>
+                    <td width="15%">
+                        @game.Category.Name
+                    </td>
+                    <td width="15%">
+                        @game.Price
+                    </td>
+                    <td width="15%">
+                        <img src="\@game.ImageUrl" class="card-img-top rounded" style="height:273px;width:194px;border-radius:5px;border:1px solid #bbb9b9" />
+                    </td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-controller="Customer" asp-action="Details" class="btn btn-primary form-control mx-2" asp-route-id="@game.Id">
+                                <i class="bi bi-info-square"></i> &nbsp; More Details
+                            </a>
+                            <a asp-controller="Customer" asp-action="showComment" class="btn btn-primary form-control mx-2" asp-route-id="@game.Id">
+                                 <i class="bi bi-chat-text"></i> &nbsp; All Comment
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+</body>

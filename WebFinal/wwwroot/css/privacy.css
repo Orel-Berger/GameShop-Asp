@@ -1,0 +1,183 @@
+﻿
+/* Global styles */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f2f2f2;
+}
+
+* {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    display: none;
+}
+
+/* Define the fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.privacy-policy {
+    margin: 40px 0;
+}
+
+    .privacy-policy h2 {
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+
+    .privacy-policy h3 {
+        font-size: 24px;
+        font-weight: 600;
+        margin: 30px 0 10px 0;
+    }
+
+    .privacy-policy p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+
+    .privacy-policy ul {
+        margin-bottom: 20px;
+    }
+
+    .privacy-policy li {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+    }
+
+    .privacy-policy a {
+        color: #e74c3c;
+        text-decoration: none;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+        .privacy-policy a:hover {
+            color: #333;
+        }
+/* Hero styles */
+
+
+.hero {
+    background-image: url('https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 1300px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+    .hero:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    z-index: 1;
+}
+
+/* fadeIn animation */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: initial;
+    }
+}
+
+/* animate logo */
+.logo {
+    animation: spin 2s linear infinite;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.hero h1 {
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    max-width: 600px;
+    line-height: 1.5;
+}
+
+.hero button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    .hero button:hover {
+        background-color: #fff;
+        color: #e74c3c;
+    }
+
+    .hero button:focus {
+        outline: none;
+    }
+
+/* Animation styles */
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-timing-function: ease-in-out;
+}

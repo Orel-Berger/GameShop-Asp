@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebFinal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebFinal.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\css\\HomeSite.css",
+      "PackagePath": "staticwebassets\\css\\HomeSite.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\css\\bootwatch_Morph.css",
+      "PackagePath": "staticwebassets\\css\\bootwatch_Morph.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\css\\darkMode.css",
+      "PackagePath": "staticwebassets\\css\\darkMode.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\css\\privacy.css",
+      "PackagePath": "staticwebassets\\css\\privacy.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\css\\star.css",
+      "PackagePath": "staticwebassets\\css\\star.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\Shop\\logo.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\Shop\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\190e1671-1969-4212-8b75-d2511544774c.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\190e1671-1969-4212-8b75-d2511544774c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\91a518d3-44a8-45b3-9c30-6bed6367e8f2.png",
+      "PackagePath": "staticwebassets\\images\\games\\91a518d3-44a8-45b3-9c30-6bed6367e8f2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\marvel.png",
+      "PackagePath": "staticwebassets\\images\\games\\marvel.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\pic1.png",
+      "PackagePath": "staticwebassets\\images\\games\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\pic2.png",
+      "PackagePath": "staticwebassets\\images\\games\\pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\pic4.png",
+      "PackagePath": "staticwebassets\\images\\games\\pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\games\\pic5.png",
+      "PackagePath": "staticwebassets\\images\\games\\pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\star\\StarFade.gif",
+      "PackagePath": "staticwebassets\\images\\star\\StarFade.gif"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\images\\star\\StarGlow.gif",
+      "PackagePath": "staticwebassets\\images\\star\\StarGlow.gif"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\js\\game.js",
+      "PackagePath": "staticwebassets\\js\\game.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orel\\Desktop\\פרוייקטים\\WebFinal\\WebFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebFinal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebFinal.props",
+      "PackagePath": "build\\WebFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebFinal.props",
+      "PackagePath": "buildMultiTargeting\\WebFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebFinal.props",
+      "PackagePath": "buildTransitive\\WebFinal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

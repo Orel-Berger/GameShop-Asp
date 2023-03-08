@@ -1,0 +1,107 @@
+﻿/* Hero section */
+
+.hero {
+    background: url('https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .hero h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+
+    .hero a.logo {
+        font-size: 2rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .hero p {
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .hero a.btn-primary {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        font-size: 1.5rem;
+        text-transform: uppercase;
+    }
+
+/* Product section */
+.products {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+    .products .card {
+        border: none;
+        margin-bottom: 2rem;
+        transition: all 0.3s;
+    }
+
+        .products .card:hover {
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            transform: translateY(-10px);
+        }
+
+        .products .card img {
+            border-radius: 5px;
+        }
+
+    .products .card-body h5 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+    }
+
+    .products .card-body p {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+
+        .products .card-body p b {
+            font-size: 0.8rem;
+            color: #dc3545;
+        }
+
+    .products .card-body a.btn-primary {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        font-size: 1rem;
+    }
+
+/* About section */
+.about {
+    background-color: #f7f7f7;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+    .about img {
+        width: 100%;
+        height: auto;
+        border-radius: 15px;
+        border: 2px solid #bbb9b9;
+    }
+
+    .about h2 {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+
+    .about p {
+        font-size: 1rem;
+        line-height: 1.5;
+        margin-bottom: 2rem;
+    }

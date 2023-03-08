@@ -1,0 +1,96 @@
+﻿@model WebFinal.Models.ViewModels.GameVM
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Game.Id" hidden />
+    <input asp-for="Game.ImageUrl" hidden />
+    <div class="row">
+        <div class="col-10">
+            <div class="border p-3 mt-4 row">
+                <div class="col-12 pb-2">
+                    <h2 class="text-primary">@(Model.Game.Id != 0 ? "Update" : "Create") Game</h2>
+                    <hr />
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Game.Title"></label>
+                    <input asp-for="Game.Title" class="form-control" />
+                    <span asp-validation-for="Game.Title" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Game.Description"></label>
+                    <textarea asp-for="Game.Description" class="form-control"></textarea>
+                    <span asp-validation-for="Game.Description" class="text-danger"></span>
+                </div> 
+                <div class="mb-3 col-6">
+                    <label asp-for="Game.Publisher"></label>
+                    <input asp-for="Game.Publisher" class="form-control" />
+                    <span asp-validation-for="Game.Publisher" class="text-danger"></span>
+                </div>       
+                <div class="mb-3 col-6">
+                    <label asp-for="Game.Price"></label>
+                    <input asp-for="Game.Price" class="form-control" />
+                    <span asp-validation-for="Game.Price" class="text-danger"></span>
+                </div>
+                <div class="mb-3 col-6">
+                    <label asp-for="Game.PublishDate"></label>
+                    <input asp-for="Game.PublishDate" class="form-control" type="date" />
+                    <span asp-validation-for="Game.PublishDate" class="text-danger"></span>
+                </div>
+                <div class="mb-3 col-6">
+                    <label asp-for="Game.CategoryId"></label>
+                    <select asp-for="Game.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                        @*asp-items="ViewBag.CategoryList"*@
+                        <option disabled selected>---select Category--</option>
+                    </select>
+                    <span asp-validation-for="Game.CategoryId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Game.ImageUrl"></label>
+                    <input type="file" id="uploadBox" name="file" class="form-control" />
+                </div>
+                <div class="col-12">
+                    @if (Model.Game.Id != 0)
+                    {
+                        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+                    }
+                    else
+                    {
+                        <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">Create</button>
+                    }
+                    <a asp-controller="Game" asp-action="Index" class="btn btn-secondary" style="width:150px">
+                        Back to list
+                    </a>
+                </div>
+            </div>
+        </div>
+         <div class="col-2 pt-4">
+            @if (Model.Game.Id != 0)
+            {
+                <img src="\@Model.Game.ImageUrl" width="100%" style="height:273px;width:194px;border-radius:5px; border:1px solid #bbb9b9" />
+            }
+            else
+            {
+                <img src="\images\games\Marvel.png" width="100%" style="height:273px;width:194px;border-radius:5px;border:1px solid #bbb9b9" />        
+            }
+         </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+    <script>
+        function ValidateInput(){
+            if(document.getElementById("uploadBox").value==""){
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'ples upload an image',                   
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}
